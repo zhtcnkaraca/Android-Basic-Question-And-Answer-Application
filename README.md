@@ -19,7 +19,7 @@ The main aim of project is using API's in android project listing some kind of c
 </p>
 
 ## Clean Simple Architecture
-![Architecture](https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/logo.PNG)
+![Architecture](https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/mimari.PNG)
 
 License
 --------
