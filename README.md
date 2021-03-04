@@ -3,9 +3,9 @@
 # Question And Answer App
 ![appicon](https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/logo.png)
 
-Computer Component App is basic listing app which include computer component.
+This project is a simple question and answer application.
 
-The main aim of project is using API's in android project listing some kind of computer component.
+By selecting a category, the questions belonging to that category are displayed. All questions are taken from within the local system.
 
 <h2 id="Outputs">Outputs</h2>
 <p>
