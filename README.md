@@ -1,7 +1,7 @@
 # Android-Basic-Question-And-Answer-Application
 
 # Question And Answer App
-![appicon](https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![appicon](https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/logo.png)
 
 Computer Component App is basic listing app which include computer component.
 
@@ -9,17 +9,17 @@ The main aim of project is using API's in android project listing some kind of c
 
 <h2 id="Outputs">Outputs</h2>
 <p>
-  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Basic-Question-And-Answer-Application/blob/main/images/1.png" alt="SS1" />
-  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/SplashActivityAlertDialog.png" alt="SS2" />
-  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/ListeActivity.png" alt="SS3" />
-  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/ListeaActivityAlertDialog.png" alt="SS4" />
-  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/DetayActivity.png" alt="SS5" />
-  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/DetayActivity.png" alt="SS5" />
+  <img height= "400"  src="https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/1.PNG" alt="SS1" />
+  <img height= "400"  src="https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/2.PNG" alt="SS2" />
+  <img height= "400"  src="https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/3.PNG" alt="SS3" />
+  <img height= "400"  src="https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/4.PNG" alt="SS4" />
+  <img height= "400"  src="https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/5.PNG" alt="SS5" />
+  <img height= "400"  src="https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/6.PNG" alt="SS5" />
 
 </p>
 
 ## Clean Simple Architecture
-![Architecture](https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/images/yap%C4%B1.JPG)
+![Architecture](https://github.com/zhtcnkaraca/Android-Basic-Question-And-Answer-Application/blob/main/images/logo.PNG)
 
 License
 --------
