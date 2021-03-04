@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">H5190016_ZahitCanKaraca</string>
+    <string name="app_next">İleri</string>
+    <string name="app_exit">Çıkış</string>
+    <string name="app_teknoloji">Teknoloji</string>
+    <string name="app_tarih">Tarih</string>
+    <string name="app_oyunlar">PC Oyunları</string>
+    <string name="app_edthint">Oyuncu Adı Giriniz</string>
+    <string name="app_textmain">Oyuncu Adı:</string>
+    <string name="app_successful">Tebrikler</string>
+    <string name="app_gameover">Oyun Bitti</string>
+    <string name="app_homescreen">Ana Sayfaya Dön</string>
+    <string name="app_point">Puan: </string>
+    <string name="app_questionInfo">Soru: </string>
+    <string name="app_questionInfo2">/10</string>
+    <string name="app_trueAnswer">Cevap Doğru</string>
+    <string name="app_waiting">Bekleniyor...</string>
+    <string name="app_wwelcome">Hoşgeldin; </string>
+    <string name="app_attention">Dikkat</string>
+    <string name="app_yes">Evet</string>
+    <string name="app_no">Hayır</string>
+    <string name="app_questionExit">Uygulamadan çıkmak istediğinize emin misiniz?</string>
+    <string name="app_notNull">Boş Geçilemez</string>
+    <string name="app_a">A</string>
+    <string name="app_b">B</string>
+    <string name="app_c">C</string>
+
+
+
+    <string name="app_question1">Bir byte kaç bit dir?</string>
+    <string name="app_question1_1">16</string>
+    <string name="app_question1_2">8</string>
+    <string name="app_question1_3">32</string>
+
+    <string name="app_question2">Apple firması kaç yılında kurulmuştur?</string>
+    <string name="app_question2_1">1976</string>
+    <string name="app_question2_2">1986</string>
+    <string name="app_question2_3">1996</string>
+
+    <string name="app_question3">Bilgisayar tarihinin ilk virüsü?</string>
+    <string name="app_question3_1">Ego</string>
+    <string name="app_question3_2">Turuva</string>
+    <string name="app_question3_3">Brain</string>
+
+    <string name="app_question4">Elektirik akımı ölçü birimi?</string>
+    <string name="app_question4_1">Amper</string>
+    <string name="app_question4_2">Volt</string>
+    <string name="app_question4_3">Ohm</string>
+
+    <string name="app_question5">LG markasının açılımı nedir?</string>
+    <string name="app_question5_1">Lens Gear</string>
+    <string name="app_question5_2">Life Is Good</string>
+    <string name="app_question5_3">Logo Green</string>
+
+    <string name="app_question6">İnternet ilk olarak ne amaçla kullanılmıştır?</string>
+    <string name="app_question6_1">Askeri iletişim</string>
+    <string name="app_question6_2">Haberleşme</string>
+    <string name="app_question6_3">Eğitim</string>
+
+    <string name="app_question7">Hard Diskdeki Trak ne anlama gelir?</string>
+    <string name="app_question7_1">Tek</string>
+    <string name="app_question7_2">Gen</string>
+    <string name="app_question7_3">İz</string>
+
+    <string name="app_question8">CD kısaltmasının açılımı nedir?</string>
+    <string name="app_question8_1">Change Day</string>
+    <string name="app_question8_2">Compack Disk</string>
+    <string name="app_question8_3">Change Directory</string>
+
+    <string name="app_question9">Bir kilobyte kaç byte eder?</string>
+    <string name="app_question9_1">1500</string>
+    <string name="app_question9_2">1000</string>
+    <string name="app_question9_3">1024</string>
+
+    <string name="app_question10">Dünyada genel olarak internet üzerinde en fazla kullanılan arama motoru hangisidir?</string>
+    <string name="app_question10_1">Explorer</string>
+    <string name="app_question10_2">Yandex</string>
+    <string name="app_question10_3">Google</string>
+
+    <string name="app_question11">Tarihte Türk adıyla kurulan ilk Türk devleti hangisidir?</string>
+    <string name="app_question11_1">Türgişler</string>
+    <string name="app_question11_2">Göktürk</string>
+    <string name="app_question11_3">İskitler</string>
+
+    <string name="app_question12">Hangi Türk devleti daha önce kurulmuştur?</string>
+    <string name="app_question12_1">Hunlar</string>
+    <string name="app_question12_2">Uygurlar</string>
+    <string name="app_question12_3">Göktürkler</string>
+
+    <string name="app_question13">Çift başlı kartal hangi devletin sembolüdür?</string>
+    <string name="app_question13_1">Selçuklular</string>
+    <string name="app_question13_2">Altın Orda Devleti</string>
+    <string name="app_question13_3">Çağtay Hanlığı</string>
+
+    <string name="app_question14">Teoman hangi devletin kurucusudur?</string>
+    <string name="app_question14_1">Selçuklular</string>
+    <string name="app_question14_2">Göktürler</string>
+    <string name="app_question14_3">Hunlar</string>
+
+    <string name="app_question15">Sultan Alparslan hangi devletin yöneticisiydi?</string>
+    <string name="app_question15_1">Osmanlılar</string>
+    <string name="app_question15_2">Selçuklular</string>
+    <string name="app_question15_3">Batı Hunlar</string>
+
+    <string name="app_question16">Yavuz Sultan Selim in dedesi kimdir?</string>
+    <string name="app_question16_1">2.Beyazıd</string>
+    <string name="app_question16_2">2.Murat</string>
+    <string name="app_question16_3">Fatih Sultan Mehmet</string>
+
+    <string name="app_question17">Alp Er Tunga kimdir?</string>
+    <string name="app_question17_1">Saka Hanı</string>
+    <string name="app_question17_2">Göktürk Kağanı</string>
+    <string name="app_question17_3">Hun İmparatoru</string>
+
+    <string name="app_question18">Türklerin kullandığı ilk alfabe hangisidir?</string>
+    <string name="app_question18_1">Uygur Alfabesi</string>
+    <string name="app_question18_2">Göktürk Alfabesi</string>
+    <string name="app_question18_3">Hun Alfabesi</string>
+
+    <string name="app_question19">Hangisi Sultan I.Ahmet in eşidir?</string>
+    <string name="app_question19_1">Kösem Sultan</string>
+    <string name="app_question19_2">Hürrem Sultan</string>
+    <string name="app_question19_3">Safiye Sultan</string>
+
+    <string name="app_question20">İslamiyeti kabul eden ilk Türk boyu hangisidir?</string>
+    <string name="app_question20_1">Kayılar</string>
+    <string name="app_question20_2">Peçenekler</string>
+    <string name="app_question20_3">Karluklar</string>
+
+    <string name="app_question21">CS GO nun çıkış tarihi nedir</string>
+    <string name="app_question21_1">23 Ağustos 2015</string>
+    <string name="app_question21_2">21 Ağustos 2012</string>
+    <string name="app_question21_3">21 Ağustos 2009</string>
+
+    <string name="app_question22">En çok oyuncuya sahip oyun hangisidir?</string>
+    <string name="app_question22_1">Minecraft</string>
+    <string name="app_question22_2">GTA5</string>
+    <string name="app_question22_3">PUBG</string>
+
+    <string name="app_question23">GTA 5 de kaç oyuncuyu yönetebiliyoruz?</string>
+    <string name="app_question23_1">3</string>
+    <string name="app_question23_2">1</string>
+    <string name="app_question23_3">2</string>
+
+    <string name="app_question24">Half Life oyununun sahibi kimdir?</string>
+    <string name="app_question24_1">Sega</string>
+    <string name="app_question24_2">Rockstar Games</string>
+    <string name="app_question24_3">Valve</string>
+
+    <string name="app_question25">Aşağıdakilerden hangisi CS GO rank sisteminde bulunmaz?</string>
+    <string name="app_question25_1">Silver</string>
+    <string name="app_question25_2">Global Elite</string>
+    <string name="app_question25_3">Gold</string>
+
+    <string name="app_question26">Fifa hangi oyun şirketine aittir?</string>
+    <string name="app_question26_1">EA GAMES</string>
+    <string name="app_question26_2">Rockstar Games</string>
+    <string name="app_question26_3">Ubisoft</string>
+
+    <string name="app_question27">Tommy Vercetti hangi oyunun karakteridir?</string>
+    <string name="app_question27_1">LOL</string>
+    <string name="app_question27_2">GTA Vice City</string>
+    <string name="app_question27_3">CS GO</string>
+
+    <string name="app_question28">Aşağıdakilerden hangisi Türk oyunudur?</string>
+    <string name="app_question28_1">Far Cry</string>
+    <string name="app_question28_2">CS GO</string>
+    <string name="app_question28_3">Zula</string>
+
+    <string name="app_question29">Crysis serisi kaç oyundan oluşur?</string>
+    <string name="app_question29_1">3</string>
+    <string name="app_question29_2">2</string>
+    <string name="app_question29_3">4</string>
+
+    <string name="app_question30">Dokuz kuyruklu tilki LOL deki hangi karekterin lakabıdır?</string>
+    <string name="app_question30_1">Ashe</string>
+    <string name="app_question30_2">Ahri</string>
+    <string name="app_question30_3">Akali</string>
+
+
+
+
+
+</resources>

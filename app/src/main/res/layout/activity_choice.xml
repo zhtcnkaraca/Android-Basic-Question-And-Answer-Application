@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ChoiceActivity"
+    android:orientation="vertical"
+    android:background="@color/colorBackground"
+    >
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/txtGetName"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/colorPurple"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnCtgy1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/bg_costumbutton3"
+        android:text="@string/app_teknoloji"
+        android:textColor="@color/colorBackground" />
+
+    <Button
+        android:id="@+id/btnCtgy2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/bg_costumbutton3"
+        android:text="@string/app_oyunlar"
+        android:textColor="@color/colorBackground" />
+
+    <Button
+        android:id="@+id/btnCtgy3"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/bg_costumbutton3"
+        android:text="@string/app_tarih"
+        android:textColor="@color/colorBackground" />
+
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/bg_costumbutton2"
+        android:text="@string/app_exit" />
+</LinearLayout>
